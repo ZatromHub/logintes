@@ -1,0 +1,25 @@
+{
+  "name": "web-login",
+  "version": "1.0.0",
+  "description": "Website login modern dengan GitHub database dan UI keren",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "live-server"
+  },
+  "keywords": [
+    "login",
+    "html",
+    "bootstrap",
+    "vercel",
+    "github",
+    "website"
+  ],
+  "author": "NamaKamu",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.0"
+  }
+}
